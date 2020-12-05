@@ -3,6 +3,8 @@
 #### leetcode练习
 
 ![abc](https://latex.codecogs.com/gif.latex?y=x\beta&plus;\epsilon) 
+
+![dd](http://www.sciweavers.org/tex2img.php?eq=x%3D%20%5Cbig%28a%5Cbig%29%20%20%5Cbegin%7Bbmatrix%7Da%20%26%20b%20%5C%5Cc%20%26%20d%20%5Cend%7Bbmatrix%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 ## 机器学习算法
 
 
