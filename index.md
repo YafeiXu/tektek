@@ -11,6 +11,7 @@
 
 ![w](http://latex.codecogs.com/svg.latex?x=\binom{n}{r}\begin{bmatrix}1 & 2 \\3 & 4 \\\end{bmatrix})
 
+![r](\sum \frac{\partial^2 \int_{1}^{2}}{\partial x^2}\begin{bmatrix} 1 & 2\\ 2 & 4\\ 3 & 6 \end{bmatrix})
 ## 机器学习算法
 
 
