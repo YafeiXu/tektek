@@ -14,6 +14,8 @@
 ![r](\sum \frac{\partial^2 \int_{1}^{2}}{\partial x^2}\begin{bmatrix} 1 & 2\\ 2 & 4\\ 3 & 6 \end{bmatrix})
 
 ![t](https://latex.codecogs.com/gif.latex?\sum&space;\frac{\partial^2&space;\int_{1}^{2}}{\partial&space;x^2}\begin{bmatrix}&space;1&space;&&space;2\\&space;2&space;&&space;4\\&space;3&space;&&space;6&space;\end{bmatrix})
+
+![g](https://latex.codecogs.com/gif.latex?\sum&space;\frac{\partial^2&space;\int_{1}^{2}}{\partial&space;x^2}&space;\prod&space;\sum&space;\bigcap&space;\binom{3}{n})
 ## 机器学习算法
 
 
