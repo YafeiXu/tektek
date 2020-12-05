@@ -1,12 +1,8 @@
 ## 数据结构算法
 ### Leetcode Nr.1
 #### leetcode练习
-$$y=x\beta+epsilon$$
-<img src="http://latex.codecogs.com/svg.latex?y=x\betq&plus;\epsilon" title="http://latex.codecogs.com/svg.latex?y=x\betq+\epsilon" />
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
-
-![y=x\beta+epsilon](http://latex.codecogs.com/svg.latex?y=x\betq&plus;\epsilon" title="http://latex.codecogs.com/svg.latex?y=x\betq+\epsilon}{2a}) 
+![abc](https://latex.codecogs.com/gif.latex?y=x\beta&plus;\epsilon) 
 ## 机器学习算法
 
 
