@@ -9,7 +9,7 @@
 
 ![e](https://bit.ly/3gezn7h)
 
-![w](https://latex.codecogs.com/gif.latex?f=\binom{n}{r}\begin{bmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{bmatrix})
+![w](http://latex.codecogs.com/svg.latex?x=\binom{n}{r}\begin{bmatrix}1 & 2 \\3 & 4 \\\end{bmatrix})
 
 ## 机器学习算法
 
