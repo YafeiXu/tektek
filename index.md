@@ -1,4 +1,10 @@
-[TOC]
+## 数据结构算法
+### Leetcode Nr.1
+#### leetcode练习
+$$y=x\beta+epsilon$$
+
+## 机器学习算法
+
 
 ## Welcome to GitHub Pages
 
